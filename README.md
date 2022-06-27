@@ -21,8 +21,8 @@
   > * 강의를 모두 수강하여 딥러닝의 기초 지식을 습득하는 것을 목표로 한다.
 
 ### 구성원
-  > * 고동우
-  > * 김태완
+  > * 고동우 _[DwKwCs](https://github.com/DwKwCs)_
+  > * 김태완 _[codml](https://github.com/codml)_
   > * 민동준 _[mdj1412](https://github.com/mdj1412)_
   > * 유영준 _[Merry-Berry](https://github.com/Merry-Berry)_
 

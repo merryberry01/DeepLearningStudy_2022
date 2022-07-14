@@ -26,7 +26,6 @@
   > * 김태완 _[codml](https://github.com/codml)_
   > * 민동준 _[mdj1412](https://github.com/mdj1412)_
   > * 유영준 _[Merry-Berry](https://github.com/Merry-Berry)_
-  > * 최영철 _[softmoca](https://github.com/softmoca)_
 
 ### 커리큘럼
 주차|학습내용

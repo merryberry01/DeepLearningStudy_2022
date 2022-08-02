@@ -35,8 +35,7 @@
 3주차|Logistic (Regression) Classification
 4주차|Softmax Regression (Multinomial Logistic Regression)
 5주차|ML의 실용과 몇가지 팁
-6주차|딥러닝의 기본 개념과, 문제, 그리고 해결
-Neural Network 1: XOR 문제와 학습방법, Backpropagation (1986 breakthrough)
+6주차|딥러닝의 기본 개념과, 문제, 그리고 해결, Neural Network 1: XOR 문제와 학습방법, Backpropagation (1986 breakthrough)
 7주차|Neural Network 2: ReLU and 초기값 정하기 (2006/2007 breakthrough)
 8주차|Convolutional Neural Networks
 9주차|Recurrent Neural Network

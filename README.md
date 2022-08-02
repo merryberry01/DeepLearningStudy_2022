@@ -1,7 +1,7 @@
 # 2022 하계방학 딥러닝 스터디
 
 ### 일정 및 시간
-  > * 6월 30일 ~ 9월 1일 매주 목요일 11시 (10주)
+  > * 6월 30일 ~ 8월 25일 매주 목요일 11시 (10주)
 
 ### 진행에 사용하는 강의와 도서
   > **강의** <br>
@@ -36,7 +36,7 @@
 4주차|Softmax Regression (Multinomial Logistic Regression)
 5주차|ML의 실용과 몇가지 팁
 6주차|딥러닝의 기본 개념과, 문제, 그리고 해결
-7주차|Neural Network 1: XOR 문제와 학습방법, Backpropagation (1986 breakthrough)
-8주차|Neural Network 2: ReLU and 초기값 정하기 (2006/2007 breakthrough)
-9주차|Convolutional Neural Networks
-10주차|Recurrent Neural Network
+Neural Network 1: XOR 문제와 학습방법, Backpropagation (1986 breakthrough)
+7주차|Neural Network 2: ReLU and 초기값 정하기 (2006/2007 breakthrough)
+8주차|Convolutional Neural Networks
+9주차|Recurrent Neural Network
